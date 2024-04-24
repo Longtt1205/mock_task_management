@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Web Developer IV",
+        "description": "Required",
+        "deadline": "2024-08-01",
+        "status": "Open",
+        "startDate": "2024-12-31"
+    },
+    {
+        "title": "Assistant Media Planner",
+        "description": "Important",
+        "deadline": "2024-06-24",
+        "status": "Resolved",
+        "startDate": "2024-01-26"
+    },
+    {
+        "title": "Nurse",
+        "description": "Required",
+        "deadline": "2024-02-05",
+        "status": "Open",
+        "startDate": "2024-01-31"
+    },
+    {
+        "title": "Design Engineer",
+        "description": "Required",
+        "deadline": "2024-05-20",
+        "status": "Open",
+        "startDate": "2024-01-29"
+    },
+    {
+        "title": "Legal Assistant",
+        "description": "Required",
+        "deadline": "2024-01-24",
+        "status": "Resolved",
+        "startDate": "2024-09-29"
+    },
+    {
+        "title": "Payment Adjustment Coordinator",
+        "description": "No",
+        "deadline": "2024-06-20",
+        "status": "Open",
+        "startDate": "2024-12-10"
+    },
+    {
+        "title": "Environmental Tech",
+        "description": "Required",
+        "deadline": "2024-01-11",
+        "status": "Open",
+        "startDate": "2024-05-10"
+    },
+    {
+        "title": "VP Marketing",
+        "description": "No",
+        "deadline": "2024-04-20",
+        "status": "Open",
+        "startDate": "2024-04-06"
+    },
+    {
+        "title": "Electrical Engineer",
+        "description": "Required",
+        "deadline": "2024-08-29",
+        "status": "Resolved",
+        "startDate": "2024-02-18"
+    },
+    {
+        "title": "Nurse",
+        "description": "Required",
+        "deadline": "2024-02-17",
+        "status": "Open",
+        "startDate": "2024-06-30"
+    }
+]
